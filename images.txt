@@ -7,4 +7,4 @@ xhofe/alist:latest
 nginx:1.24.0
 nacos/nacos-server:latest
 rabbitmq:latest
-redis:latest
+redis
