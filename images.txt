@@ -6,6 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:1.24.0
 minio:latest
-jenkins:latest
-rocketmq:latest
-rabbitmq:latest
