@@ -9,3 +9,4 @@ nacos/nacos-server:latest
 rabbitmq:latest
 redis
 elasticsearch
+jenkins/jenkins:2.414.2
