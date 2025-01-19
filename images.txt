@@ -9,3 +9,4 @@ nacos/nacos-server:latest
 rabbitmq:latest
 redis
 minio/minio
+elasticsearch:7.3.1
