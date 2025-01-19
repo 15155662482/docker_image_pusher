@@ -10,3 +10,4 @@ rabbitmq:latest
 redis
 minio/minio
 elasticsearch:7.3.1
+jenkins:latest
